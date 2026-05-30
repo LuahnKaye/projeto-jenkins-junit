@@ -31,7 +31,7 @@ pipeline {
             junit 'target/surefire-reports/*.xml'
         }
         success {
-            echo 'Todos os testes passaram com sucesso! Bom trabalho, Antigravity.'
+            echo 'Todos os testes passaram com sucesso! Bom trabalho, Luahn.'
         }
         failure {
             echo 'Alguns testes falharam. Verifique os relatórios.'

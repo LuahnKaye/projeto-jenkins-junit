@@ -1,4 +1,4 @@
-package br.com.antigravity;
+package br.com.luahn;
 
 public class Calculadora {
     

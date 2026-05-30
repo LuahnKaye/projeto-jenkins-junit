@@ -1,4 +1,4 @@
-package br.com.antigravity;
+package br.com.luahn;
 
 import org.junit.jupiter.api.Test;
 import static org.junit.jupiter.api.Assertions.assertEquals;
